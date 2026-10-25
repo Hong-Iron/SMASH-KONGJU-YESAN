@@ -20,5 +20,44 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "새백년체육관": {
+      "style": "tan",
+      "wall": "#dda060",
+      "glass": "#1e2226",
+      "frame": "#e8b771"
+    },
+    "대학본부": {
+      "style": "stone",
+      "wall": "#c8cacd",
+      "glass": "#3c566a",
+      "frame": "#8d9298"
+    },
+    "생명과학관": {
+      "style": "stone",
+      "wall": "#b8b0ac",
+      "glass": "#3f4a50",
+      "frame": "#6f6d6f"
+    },
+    "산업과학관": {
+      "style": "stone",
+      "wall": "#bdb8b5",
+      "glass": "#3f4a50",
+      "frame": "#6a6a6f"
+    },
+    "학생회관": {
+      "style": "concrete",
+      "wall": "#c9c9ca",
+      "glass": "#3d5055",
+      "frame": "#b2936a"
+    },
+    "18동(야생동물관리센터 관리동)": {
+      "style": "stone",
+      "wall": "#c6c5c4",
+      "glass": "#2c4a6a",
+      "frame": "#3a5f9a"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
